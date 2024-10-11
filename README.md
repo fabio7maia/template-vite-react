@@ -18,4 +18,7 @@ Currently, two official plugins are available:
 - [X] Vitest
 - [X] Testing library
 - [X] Typescript
-- []Playwright
+
+# Next features
+
+- Playwright
